@@ -17,11 +17,11 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale: "en-US"
 rtl: # true, false (default) # turns direction of the page into right to left for RTL languages
-title: "A10i - AI & Innovation"
+title: "AI at Scale"
 title_separator: "-"
-subtitle: "Artificial Intelligence & Innovation Hub"
-name: "Hamid Bagheri"
-description: "A personal website showcasing AI projects, innovations, and technical insights."
+subtitle: "Transforming Mission-Critical Sectors with Applied AI"
+name: "AI at Scale"
+description: "We design, build, and deploy next‑generation AI products that let domain experts move faster, uncover deeper insights, and make better decisions."
 url: "https://hamid58b.github.io"
 baseurl: "/a10i"
 repository: "hamid58b/a10i"
@@ -112,10 +112,10 @@ analytics:
 
 # Site Author
 author:
-  name: "Hamid Bagheri"
+  name: "AI at Scale"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "AI Engineer & Innovation Enthusiast. Passionate about creating intelligent solutions and exploring the frontiers of artificial intelligence."
-  location: "Toronto, Canada"
+  bio: "Transforming Mission-Critical Sectors with Applied AI. We design, build, and deploy next‑generation AI products for organizations that compete on knowledge."
+  location: "Global"
   email:
   links:
     - label: "Email"

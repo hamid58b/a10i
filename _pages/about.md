@@ -1,36 +1,69 @@
 ---
 permalink: /about/
-title: "About"
+title: "About AI at Scale"
 ---
 
-## Welcome to A10i
+## Transforming Mission-Critical Sectors with Applied AI
 
-**A10i** stands for **Artificial Intelligence & Innovation** - a hub for exploring the cutting-edge world of AI technologies and innovative solutions.
+**AI at Scale** designs, builds, and deploys next‑generation AI products that let domain experts move faster, uncover deeper insights, and make better decisions.
 
-### About Me
+## What We Do
 
-I'm **Hamid Bagheri**, an AI Engineer and Innovation Enthusiast based in Toronto, Canada. I'm passionate about creating intelligent solutions and exploring the frontiers of artificial intelligence.
+Our team blends state‑of‑the‑art research with pragmatic engineering to deliver production‑ready AI solutions for organizations that compete on knowledge.
 
-### What You'll Find Here
+## Core Offerings
 
-- **AI Projects**: Hands-on projects showcasing various AI technologies and applications
-- **Technical Insights**: Deep dives into AI algorithms, machine learning techniques, and emerging technologies
-- **Innovation Stories**: Exploring how AI is transforming industries and creating new possibilities
-- **Tutorials & Guides**: Step-by-step guides for implementing AI solutions
+### 🤖 Agentic Solutions
 
-### My Interests
+Task‑oriented AI agents orchestrated through our proprietary frameworks to automate knowledge‑heavy workflows.
 
-- Machine Learning & Deep Learning
-- Natural Language Processing
-- Computer Vision
-- AI Ethics and Responsible AI
-- Innovation and Entrepreneurship
-- Open Source Development
+### 🧠 Domain‑Tuned Language Models
 
-### Get in Touch
+Fine‑tuned LLMs for life sciences, bioinformatics, and other data‑rich sectors—built to understand your vocabulary out of the box.
 
-Feel free to connect with me on [GitHub](https://github.com/hamid58b) or reach out if you'd like to collaborate on AI projects or discuss innovative ideas.
+### ☁️ Purpose‑Built Data Cloud
+
+A vertically‑integrated platform that cleans, organizes, and scales your data and compute—purpose‑built for your domain.
+
+## Our Advantages
+
+### ⚡ Accelerated Impact
+
+Turn strategic ideas into live solutions in mere weeks.
+
+### 🔒 Trust by Default
+
+Security, privacy, and compliance integrated into every solution.
+
+### 📈 ROI-Obsessed
+
+Laser-focused on delivering measurable business growth.
+
+## Industries We Serve
+
+- **Life Sciences & Bioinformatics**
+- **Healthcare & Medical Research**
+- **Financial Services**
+- **Manufacturing & Operations**
+- **Research & Development**
+
+## Why Choose AI at Scale
+
+We understand that every industry has unique challenges and requirements. Our approach combines cutting-edge AI research with deep domain expertise to deliver solutions that don't just work in theory—they work in practice, at scale, in your environment.
+
+### Our Process
+
+1. **Discovery & Assessment**: Deep dive into your specific challenges and data landscape
+2. **Solution Design**: Custom AI architecture tailored to your domain requirements
+3. **Rapid Prototyping**: Quick proof-of-concept to validate approach and ROI
+4. **Production Deployment**: Scalable, secure implementation with ongoing support
+
+## Get Started
+
+Ready to transform your organization with AI that actually works? Let's discuss how AI at Scale can accelerate your mission-critical operations.
+
+[Contact us](/contact/) to schedule a consultation and discover what's possible when AI meets domain expertise.
 
 ---
 
-*This site is built with Jekyll and the Minimal Mistakes theme, hosted on GitHub Pages.*
+*Empowering organizations to compete on knowledge through purpose-built AI solutions.*

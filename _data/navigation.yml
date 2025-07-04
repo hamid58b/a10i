@@ -4,9 +4,9 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Projects"
+  - title: "Solutions"
     url: /projects/
-  - title: "Blog"
+  - title: "Insights"
     url: /posts/
   - title: "Contact"
     url: /contact/

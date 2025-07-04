@@ -1,61 +1,93 @@
 ---
-title: "Contact"
+title: "Contact AI at Scale"
 permalink: /contact/
 author_profile: true
 ---
 
 ## Get in Touch
 
-I'm always excited to connect with fellow AI enthusiasts, researchers, and innovators. Whether you're looking to collaborate on a project, discuss AI trends, or just want to say hello, I'd love to hear from you!
+Ready to transform your organization with production-ready AI solutions? We'd love to discuss how AI at Scale can accelerate your mission-critical operations and unlock new possibilities for your domain.
 
-### Ways to Connect
+### Schedule a Consultation
 
-#### Professional Networks
+#### 📞 Discovery Call
 
-- **GitHub**: [github.com/hamid58b](https://github.com/hamid58b)
-- **LinkedIn**: [Connect with me on LinkedIn](#) *(Add your LinkedIn profile)*
-- **Twitter**: [Follow me on Twitter](#) *(Add your Twitter handle)*
+- **Initial Consultation**: Complimentary 30-minute discovery session
+- **Technical Assessment**: Deep dive into your specific challenges and data landscape
+- **ROI Planning**: Discuss potential impact and return on investment
 
-#### Email
+#### 📧 Contact Information
 
-- **General Inquiries**: [your.email@example.com](mailto:your.email@example.com)
-- **Collaboration**: [collaboration@example.com](mailto:collaboration@example.com)
+- **General Inquiries**: [info@aiatscale.com](mailto:info@aiatscale.com)
+- **Business Development**: [partnerships@aiatscale.com](mailto:partnerships@aiatscale.com)
+- **Technical Support**: [support@aiatscale.com](mailto:support@aiatscale.com)
 
-### What I'm Looking For
+### What We're Looking For
 
-#### 🤝 Collaboration Opportunities
+#### 🤝 Strategic Partnerships
 
-- Open source AI projects
-- Research collaborations
-- Innovative startup ideas
-- Speaking engagements
+- Organizations in life sciences, bioinformatics, and data-rich sectors
+- Research institutions seeking production-ready AI implementations
+- Technology partners and integration opportunities
+- Investment and growth partnerships
 
-#### 💡 Discussion Topics
+#### 💡 Collaboration Opportunities
 
-- Latest AI trends and technologies
-- Machine learning best practices
-- AI ethics and responsible AI
-- Innovation in technology
+- Custom AI solution development
+- Domain-specific language model fine-tuning
+- Data cloud and infrastructure optimization
+- Agentic workflow automation
 
-#### 🎯 Services I Offer
+#### 🎯 Ideal Client Profile
 
-- AI consultation and strategy
-- Machine learning model development
-- Technical writing and documentation
-- Code review and optimization
+- Organizations that compete on knowledge and data
+- Mission-critical operations requiring reliable AI solutions
+- Teams ready to accelerate their workflows with purpose-built AI
+- Companies seeking measurable ROI from AI investments
 
-### Current Projects
+### Our Solutions Address
 
-I'm currently working on several exciting AI projects. If you're interested in contributing or learning more about any of these areas, please reach out:
+#### 🔬 Life Sciences & Bioinformatics
 
-- **Project 1**: Brief description
-- **Project 2**: Brief description
-- **Project 3**: Brief description
+- Drug discovery acceleration
+- Genomics data analysis
+- Regulatory compliance automation
+- Research workflow optimization
 
-### Response Time
+#### 🏥 Healthcare & Medical Research
 
-I try to respond to all inquiries within 24-48 hours. For urgent matters, please mention "URGENT" in your subject line.
+- Clinical data processing
+- Medical imaging analysis
+- Patient care optimization
+- Research documentation automation
+
+#### 💼 Enterprise Operations
+
+- Knowledge management systems
+- Decision support automation
+- Data processing pipelines
+- Compliance and reporting automation
+
+### Response Commitment
+
+- **Initial Response**: Within 24 hours for all inquiries
+- **Discovery Call Scheduling**: Same business day
+- **Proposal Delivery**: 3-5 business days following assessment
+- **Proof of Concept**: 2-4 weeks depending on complexity
+
+### Ready to Get Started?
+
+Transform your strategic ideas into live AI solutions in mere weeks. Our team is ready to help you unlock the full potential of your data and domain expertise.
+
+**[Schedule Your Discovery Call](mailto:info@aiatscale.com?subject=Discovery%20Call%20Request)**
+
+Include in your message:
+
+- Brief description of your organization and industry
+- Key challenges you're looking to address
+- Current data and AI infrastructure
+- Timeline and budget considerations
 
 ---
 
-*Looking forward to connecting with you and exploring the endless possibilities of AI together!*
+*Security, privacy, and compliance integrated into every solution. Let's build AI that works for your mission-critical operations.*
