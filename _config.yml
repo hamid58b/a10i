@@ -115,7 +115,7 @@ author:
   name: "AI at Scale"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Transforming Mission-Critical Sectors with Applied AI. We design, build, and deploy next‑generation AI products for organizations that compete on knowledge."
-  location: "Global"
+  location:
   email:
   links:
     - label: "Email"
@@ -132,7 +132,7 @@ author:
       # url: "https://linkedin.com/in/yourprofile"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hamid58b"
+      # url: "https://github.com/hamid58b"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -148,7 +148,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hamid58b"
+      # url: "https://github.com/hamid58b"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
